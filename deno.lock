@@ -1,0 +1,9 @@
+{
+  "version": "3",
+  "redirects": {
+    "https://deno.land/std/http/server.ts": "https://deno.land/std@0.206.0/http/server.ts",
+    "https://esm.sh/@supabase/supabase-js@latest": "https://esm.sh/@supabase/supabase-js@2.38.4",
+    "https://esm.sh/v133/@types/common-tags@~1.8/index.d.ts": "https://esm.sh/v133/@types/common-tags@1.8.4/index.d.ts"
+  },
+  "remote": {}
+}
